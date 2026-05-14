@@ -1,6 +1,6 @@
 Please Read:
 
-Setup Instructions⭐: 
+How to setup Uluka!⭐: 
 
 
 1.click the "code button"
@@ -10,6 +10,9 @@ Setup Instructions⭐:
 3.Extract the zip file
 
 4.Go to the extracted zip file and open and run the installer named "Uluka Studio_0.9.3_x64_en-US.msi to set up the project
+
+
+
 
 
 # LEGAL NOTICES & LICENSE
