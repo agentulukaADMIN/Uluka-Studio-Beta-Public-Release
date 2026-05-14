@@ -5,16 +5,16 @@
 
 **1.** click the "code button"
 
-2.select "download as zip" from the options bar
+**2.** select "download as zip" from the options bar
 
-3.Extract the zip file
+**3.** Extract the zip file
 
-4.Go to the extracted zip file and open and run the installer named "Uluka Studio_0.9.3_x64_en-US.msi" to set up Uluka Studio
+**4.** Go to the extracted zip file and open and run the installer named "Uluka Studio_0.9.3_x64_en-US.msi" to set up Uluka Studio
 
-5.If Windows pops up with a message saying "Windows protected your PC" then select "Run anyway".
+**5.** If Windows pops up with a message saying "Windows protected your PC" then select "Run anyway".
 (**Our app isint registered by microsoft yet, so it currently gets flagged**)
 
-6.Get an API key from Gemini (recomended): https://aistudio.google.com/app/api-keys  or Open Router (easy free API keys): https://openrouter.ai/
+**6.** Get an API key from Gemini (recomended): https://aistudio.google.com/app/api-keys  or Open Router (easy free API keys): https://openrouter.ai/
 
 
 
