@@ -3,7 +3,7 @@
 # How to setup Uluka!⭐: 
 
 
-1.click the "code button"
+**1.** click the "code button"
 
 2.select "download as zip" from the options bar
 
