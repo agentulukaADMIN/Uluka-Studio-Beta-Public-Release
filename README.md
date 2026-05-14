@@ -2,7 +2,8 @@ Please Read:
 
 Setup Instructions⭐: 
 
-1. click the "code button"
+
+1.click the "code button"
 
 2.select "download as zip" from the options bar
 
