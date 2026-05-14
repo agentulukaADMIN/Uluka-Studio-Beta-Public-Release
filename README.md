@@ -18,7 +18,7 @@ How to setup Uluka!⭐:
 # LEGAL NOTICES & LICENSE
 
 **Product:** Uluka Studio
-**Copyright © 2026 Lalith Pranay Adivishnu & Akhil Kollu & Rishikesh . All Rights Reserved.**
+**Copyright © 2026 Lalith Pranay Adivishnu & Akhil Kollu & Rishikesh Kavididevi . All Rights Reserved.**
 
 Operating under the name **Uluka**.
 
