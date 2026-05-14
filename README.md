@@ -1,10 +1,13 @@
 Please Read:
 
-Setup Instructions: 
+Setup Instructions⭐: 
 
 1. click the "code button"
+
 2.select "download as zip" from the options bar
+
 3.Extract the zip file
+
 4.Go to the extracted zip file and open and run the installer named "Uluka Studio_0.9.3_x64_en-US.msi to set up the project
 
 
