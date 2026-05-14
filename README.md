@@ -11,9 +11,9 @@ How to setup Uluka!⭐:
 
 4.Go to the extracted zip file and open and run the installer named "Uluka Studio_0.9.3_x64_en-US.msi" to set up Uluka Studio
 
-6.If Windows pops up with a message saying "Windows protected your PC" then select "Run anyway". (Our app isint registered by microsoft yet so it gets flagged)
+5.If Windows pops up with a message saying "Windows protected your PC" then select "Run anyway". (Our app isint registered by microsoft yet so it gets flagged)
 
-7.Get an API key from Gemini (recomended): https://aistudio.google.com/app/api-keys  or Open Router (easy free API keys): https://openrouter.ai/
+6.Get an API key from Gemini (recomended): https://aistudio.google.com/app/api-keys  or Open Router (easy free API keys): https://openrouter.ai/
 
 
 
