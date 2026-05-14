@@ -1,6 +1,6 @@
 Please Read:
 
-(IMPORTANT!) How to setup Uluka!⭐: 
+How to setup Uluka!⭐: 
 
 
 1.click the "code button"
